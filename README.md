@@ -1,15 +1,15 @@
 # IS_Prolog_Ontology  
 Structure:  
 
-musical_instrument
-├── keyboard_instrument
-│   ├── piano
-│   │   ├── piano_case
-│   │   │   ├── wood
-│   │   │   │   ├── plywood
-│   │   │   │   └── solid_wood
-│   │   └── keyboard
-│   │       ├── keys
+musical_instrument  
+├── keyboard_instrument  
+│   ├── piano  
+│   │   ├── piano_case  
+│   │   │   ├── wood  
+│   │   │   │   ├── plywood  
+│   │   │   │   └── solid_wood   
+│   │   └── keyboard   
+│   │       ├── keys  
 │   │       └── hardware  
 │   ├── electronic_keyboard  
 │   │   ├── speaker  
